@@ -1,0 +1,353 @@
+. {
+    font-family: poppins;
+}
+header{
+    background-color: #ce0505;
+    height: 80px;
+}
+.logo_span{
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px 15px;
+    position: absolute;
+    left: 80px;
+    top: 13px;
+}
+.logo{
+    color: #ce0505;
+    font-size: 33px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.login_signup{
+position: absolute;
+right: 80px;
+top: 25px;
+word-spacing: 10px;
+}
+.login{
+    color: white;
+    text-decoration: none;
+}
+.acc{
+    display: inline-block;
+    margin: 10px 10px 0px 5px ;
+    color: #ffffff;
+    border: solid 1px #ffffff;
+    border-radius: 5px;
+    padding: 2px 2px 2px 10px;
+    text-decoration: none;
+    word-spacing: normal;
+}
+.main{
+    background-color: #fbfbfb;
+}
+.title{
+    color: #192f60;
+    font-weight: 600;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.filters_art{
+    width: 260px;
+    height: 682px;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,0.25);
+    background-color: #ffffff;
+}
+.box1{
+    width: 794px;
+    height: 291px;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,0.16);
+    background-color: #ffffff;
+    position: absolute;
+    top: 200px;
+left: 350px;
+}
+.box2{
+    width: 794px;
+    height: 291px;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,0.16);
+    background-color: #ffffff;
+    position: absolute;
+    top: 550px;
+left: 350px;  
+}
+.pagination{
+  width: 100%;
+  height: 50px;
+  
+    position: absolute;
+    top: 850px;
+    
+    left: 50%;
+}
+.dropdown {
+    width: 106px;
+    height: 20px;
+    margin: 10px 102px 11px 1px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .filters {
+    width: 55px;
+    height: 25px;
+    margin: 0 154px 10px 0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  } 
+  .cuisine {
+    width: 51px;
+    height: 20px;
+    margin: 22px 157px 15px 1px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  image.breakfast_img {
+    width: 120px;
+    height: 120px;
+    margin: 0 41px 31px 0;
+    object-fit: contain;
+    border-radius: 5px;
+  }
+  img.breakfast_imge {
+    width: 120px;
+    height: 120px;
+    margin: 0 41px 31px 0;
+    object-fit: contain;
+    border-radius: 5px;
+  }
+  .big_chilly {
+    width: 298px;
+    height: 43px;
+    margin: 14px 267.4px 5px 41px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    bottom: 225px;
+    left: 100px;
+    position: absolute;
+  }
+  .bake {
+    width: 220px;
+    height: 43px;
+    margin: 14px 345.4px 5px 41px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    left: 100px;
+    position: absolute;
+    bottom: 225px;
+  }
+  .fort {
+    width: 39px;
+    height: 23px;
+    margin: 5px 521.4px 5px 46px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    bottom: 202px;
+    position: absolute;
+    left: 100px;
+  }
+  .Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+    width: 365px;
+    height: 23px;
+    margin: 5px 195.4px 38px 46px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position: absolute;
+    right: 90px;
+    bottom: 130px;
+  }
+  .CUISINES-COST-FOR-TWO {
+    width: 140px;
+    height: 118px;
+    margin: 229px 52px 5px 85px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    bottom: 10px;
+    
+    
+  }
+  .Path-6195 {
+    width: 726.4px;
+    height: 0;
+    margin: 31px 0 0;
+    border: solid 1px #dedfe5;
+  }
+  .Bakery-700 {
+    width: 251px;
+    height: 69px;
+    margin: 26px 294.4px 0 61px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    position: absolute;
+right: 1px;
+    bottom: 15px;
+    
+  }
+
+.fortt {
+  width: 39px;
+  height: 23px;
+  margin: 5px 521.4px 5px 46px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  bottom: 202px;
+    position: absolute;
+    left: 100px;
+}
+.Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+  width: 365px;
+  height: 23px;
+  margin: 5px 195.4px 38px 46px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+.CUISINES-COST-FOR-TWO {
+  width: 140px;
+  height: 118px;
+  margin: 207px 52px 9px 85px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+.Bakery-700 {
+  width: 251px;
+  height: 69px;
+  margin: 26px 294.4px 0 61px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.Sort {
+  width: 37px;
+  height: 25px;
+  margin: 29px 172px 15px 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.Cost-For-Two {
+  width: 89px;
+  height: 20px;
+  margin: 26px 119px 15px 1px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.radio {
+  width: 114px;
+  height: 20px;
+  margin: 15px 65px 12px 11px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}

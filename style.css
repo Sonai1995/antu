@@ -1,0 +1,203 @@
+.header{
+    width: 1366px;
+  height: 80px;
+  margin: 0 0 37px;
+  padding: 15px 101px 13px 102px;
+  background-color: #ce0505;
+}
+.e{
+    width: 32px;
+  height: 47px;
+  float: right;
+  padding: left 10px; ;
+  font-family: Poppins;
+  font-size: 33px;
+  font-weight: 600;
+  text-decoration:none;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.52;
+  letter-spacing: normal;
+  text-align: left;
+  color: #eb2929;
+}
+
+
+  .Login {
+    position:absolute;
+    right:80px;
+    top:20px;
+    word-spacing: 20px;
+    text-decoration: none;
+    
+    color: #fff;
+  }
+  .acc {
+    position: absolute;
+    right
+    top: 20px;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 10px 1opx;
+    text-decoration: none;
+    padding: 20px 50px;
+    word-spacing: normal;
+    color: #fff;
+  }
+.Ellipse-2 {
+  width: 52px;
+  height: 52px;
+  border: 1px #ce0505;
+  border-radius: 60px;
+  margin: 0 861px 0 0;
+  padding: 1px 10px 4px;
+  background-color: #fff;
+}
+.Breakfast-Places-in-Mumbai {
+  width: 512px;
+  height: 51px;
+  margin: 37px 25px 27px 113px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.one {
+  width: 794px;
+  height: 291px;
+  margin: 27px 154px 34px 45px;
+  padding: 25px 32.6px 20px 35px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+}
+.The-Big-Chill-Cakery {
+  width: 298px;
+  height: 43px;
+  margin: 14px 267.4px 5px 41px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.side_box {
+  width: 260px;
+  height: 682px;
+  margin: 27px 45px 8px 113px;
+  padding: 17px 25px 31px 26px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+}
+.Filters {
+  width: 55px;
+  height: 25px;
+  margin: 0 154px 10px 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+image.breakfast_img {
+  width: 120px;
+  height: 120px;
+  margin: 0 41px 31px 0;
+  object-fit: contain;
+}
+.two {
+  width: 794px;
+  height: 291px;
+  margin: 5px 154px 38px 45px;
+  padding: 25px 32.6px 20px 35px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+}
+  .FORT {
+    width: 39px;
+    height: 23px;
+    margin: 5px 521.4px 5px 46px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+    width: 365px;
+    height: 23px;
+    margin: 5px 195.4px 38px 46px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+  }
+  .CUISINES-COST-FOR-TWO {
+    width: 140px;
+    height: 118px;
+    margin: 229px 52px 5px 85px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+  }
+  .Bakery-700 {
+    width: 251px;
+    height: 69px;
+    margin: 26px 294.4px 0 61px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+.The-Bake-Shop {
+  width: 220px;
+  height: 43px;
+  margin: 14px 345.4px 5px 41px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+img.breakfast_imge {
+  width: 120px;
+  height: 120px;
+  margin: 0 41px 31px 0;
+  object-fit: contain;
+}
